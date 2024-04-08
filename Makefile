@@ -10,8 +10,8 @@ PROFILE = default
 PROJECT_NAME = iastronglen
 MODULE_NAME = iastronglen
 PYTHON_INTERPRETER = python3
-VIRTUALENV = virtualenv
-CONDA_EXE ?= ~/anaconda3/bin/conda
+VIRTUALENV = conda
+CONDA_EXE ?= ~/miniconda3/bin/conda
 
 #################################################################################
 # COMMANDS                                                                      #
